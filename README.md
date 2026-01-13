@@ -56,10 +56,25 @@ Terminal üzerinde Imagemagick kullanarak çalışır, Whiptail kütüphanesi il
 ####   - Efekt ve döndürme gibi temel işlemleri uygulayabilir.
 ####   - Bir klasördeki bütün resimlere üstteki işlemlerin hepsini tek bir tuşla uygulayabilir.
 
-Seçeneklere işlem yapacağınız resmin/dosyanın yolunu yazarak işleme devam edebilirsiniz.
-Resmi/Dosyayı seçtikten sonra seçtiğiniz işleme göre resmi/resimleri dizayn edip yeni bir isim vererek istediğiniz yere kaydedebilirsiniz.
+# Uygulama İçi Görüntüler
+### Menü Ekranı
+<img src="main/Screenshots/Ekran1.png" width="50%">
+
+#### Seçeneklere işlem yapacağınız resmin/dosyanın yolunu yazarak işleme devam edebilirsiniz.
+<p align="center">
+  <img src="main/Screenshots/Ekran4.png" width="45%">
+  <img src="main/Screenshots/Ekran8.png" width="45%">
+</p>
+
+#### Resmi/Dosyayı seçtikten sonra seçtiğiniz işleme göre resmi/resimleri dizayn edip yeni bir isim vererek istediğiniz yere kaydedebilirsiniz.
+<p align="center">
+  <img src="main/Screenshots/Ekran5.png" width="33%">
+  <img src="main/Screenshots/Ekran11.png" width="33%">
+  <img src="main/Screenshots/Ekran12.png" width="33%">
+</p>
 
 Bu mod grafik arayüz gerektirmediği için düşük sistem kaynakları kullanır. Sunucularda ve minimal sistemlerde çalışmaya uygundur.
+
 
 
 ## Gui.sh
@@ -71,9 +86,25 @@ Terminal üzerinde Imagemagick kullanarak çalışır.YAD (Yet Another Dialog) k
 ####   - Efekt ve döndürme gibi temel işlemleri uygulayabilir.
 ####   - Bir klasördeki bütün resimlere üstteki işlemlerin hepsini tek bir tuşla uygulayabilir.
 
-Seçeneklere işlem yapacağınız resmi/dosyayı klasörlerinizden seçerek ilerleyebilirsiniz bu size kolaylık sağlar.
-Seçilen resim/resimler üzerinde işlem yaparken açılan pencere üzerinde görüntünün TUI'e göre daha iyi olması ve fare kullanımı olması GUI nin daha kullanıcı dostu olmasını sağlıyor.
+# Uygulama İçi Görüntüler
+### Menü Ekranı
+<img src="main/Screenshots/Ekran6.png" width="50%">
 
+#### Seçeneklere işlem yapacağınız resmi/dosyayı klasörlerinizden seçerek ilerleyebilirsiniz bu size kolaylık sağlar.
+<p align="center">
+  <img src="main/Screenshots/Ekran9.png" width="35%">
+  <img src="main/Screenshots/Ekran10.png" width="45%">
+</p>
+
+#### Resmi/Dosyayı seçtikten sonra seçtiğiniz işleme göre resmi/resimleri dizayn edip yeni bir isim vererek istediğiniz yere kaydedebilirsiniz.
+<p align="center">
+  <img src="main/Screenshots/Ekran2.png" width="20%">
+  <img src="main/Screenshots/Ekran3.png" width="20%">
+  <img src="main/Screenshots/Ekran7.png" width="20%">
+</p>
+
+
+Seçilen resim/resimler üzerinde işlem yaparken açılan pencere üzerinde görüntünün TUI'e göre daha iyi olması ve fare kullanımı olması GUI nin daha kullanıcı dostu olmasını sağlıyor.
 Bu mod, masaüstü ortamı (XFCE, GNOME vb.) bulunan sistemler için uygundur.
 
 ## Function.sh 
